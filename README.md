@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! 👋 I'm Artur<br><br>I'm a Software Engineering student at the University of Málaga, passionate about technology and constantly eager to improve and grow as a developer. I'm always looking to learn new skills and take on exciting challenges.<br><br><br>
 
 
